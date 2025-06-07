@@ -1,2 +1,2 @@
 # Modelagem.SistemaDeMecanica
-<img src= "./ModelSistemaMecanica.png">
+<img src= "./Model.SistemaMecanica.png">
